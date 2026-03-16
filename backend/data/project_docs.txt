@@ -1,0 +1,10 @@
+Project Name: Multimodal AI System for Smart Healthcare Diagnosis
+
+This system detects pneumonia using chest X-ray images.
+The image modality is mandatory and provides objective evidence.
+
+Text and speech inputs are used only to classify the type of pneumonia.
+Grad-CAM highlights lung regions influencing the model’s decision.
+The system does not provide treatment or medication advice.
+
+Recommendations are confidence-based and non-prescriptive.

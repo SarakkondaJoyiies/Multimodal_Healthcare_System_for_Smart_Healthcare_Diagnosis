@@ -1,0 +1,17 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Models
+backend/models/
+*.pkl
+*.h5
+*.pt
+
+# Generated files
+backend/static/gradcam/
+backend/reports/
+
+# Env
+.env
